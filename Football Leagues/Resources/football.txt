@@ -1,0 +1,1062 @@
+The Championship
+npower
+£101,000
+0
+Scottish First Division
+Tartan Clothing Inc.
+A Kilt
+0
+Scottish Premier League
+Plymouth University
+£101,000
+0
+League Two
+npower
+£1,000
+0
+Conference Premier
+Blue Square bet
+No prize
+0
+Conference North
+Blue Square bet
+No prize
+0
+Conference South
+Blue Square bet
+No prize
+0
+Premiership
+Barclays
+£100,000
+78
+16/03/2013 00:00:00
+12:45
+Goodison Park
+Everton
+Manchester City
+False
+16/03/2013 00:00:00
+15:00
+Villa Park
+Aston Villa
+Queens Park Rangers
+False
+16/03/2013 00:00:00
+15:00
+St. Marys Stadium
+Southampton
+Liverpool
+False
+16/03/2013 00:00:00
+15:00
+Brittania Stadium
+Stoke
+West Bromich
+False
+16/03/2013 00:00:00
+15:00
+Liberty Stadium
+Swansea
+Arsenal
+False
+16/03/2013 00:00:00
+17:30
+Old Trafford
+Manchester United
+Reading
+False
+31/03/2013 00:00:00
+12:45
+Villa Park
+Aston Villa
+Liverpool
+False
+01/04/2013 00:00:00
+13:30
+Craven Cottage
+Fulham
+Queens Park Rangers
+False
+06/04/2013 00:00:00
+12:45
+Madejski Stadium
+Reading
+Southampton
+False
+06/04/2013 00:00:00
+15:00
+Stamford Bridge
+Chelsea
+Sunderland
+False
+06/04/2013 00:00:00
+15:00
+St. James' Park
+Newcastle
+Fulham
+False
+06/04/2013 00:00:00
+15:00
+Carrow Road
+Norwich
+Swansea
+False
+06/04/2013 00:00:00
+15:00
+Brittania Stadium
+Stoke
+Aston Villa
+False
+06/04/2013 00:00:00
+15:00
+The Hawthorns
+West Bromich
+Arsenal
+False
+07/04/2013 00:00:00
+13:30
+Anfield
+Liverpool
+West Ham
+False
+07/04/2013 00:00:00
+15:15
+White Hart Lane
+Tottenham
+Everton
+False
+07/04/2013 00:00:00
+16:30
+Loftus Road Stadium
+Queens Park Rangers
+Wigan Athletic
+False
+08/04/2013 00:00:00
+20:00
+Old Trafford
+Manchester United
+Manchester City
+False
+13/04/2013 00:00:00
+12:45
+St. James' Park
+Newcastle
+Sunderland
+False
+13/04/2013 00:00:00
+15:00
+Emirates Stadium
+Arsenal
+Norwich
+False
+13/04/2013 00:00:00
+15:00
+Villa Park
+Aston Villa
+Fulham
+False
+13/04/2013 00:00:00
+15:00
+Goodison Park
+Everton
+Queens Park Rangers
+False
+13/04/2013 00:00:00
+15:00
+Madejski Stadium
+Reading
+Liverpool
+False
+13/04/2013 00:00:00
+15:00
+St. Marys Stadium
+Southampton
+West Ham
+False
+14/04/2013 00:00:00
+13:30
+Brittania Stadium
+Stoke
+Manchester United
+False
+14/04/2013 00:00:00
+16:00
+Stamford Bridge
+Chelsea
+Tottenham
+False
+16/04/2013 00:00:00
+19:45
+Emirates Stadium
+Arsenal
+Everton
+False
+17/04/2013 00:00:00
+19:45
+City of Manchester Stadium
+Manchester City
+Wigan Athletic
+False
+17/04/2013 00:00:00
+19:45
+The Boleyn Ground
+West Ham
+Manchester United
+False
+20/04/2013 00:00:00
+15:00
+Craven Cottage
+Fulham
+Arsenal
+False
+20/04/2013 00:00:00
+15:00
+Carrow Road
+Norwich
+Reading
+False
+20/04/2013 00:00:00
+15:00
+Loftus Road Stadium
+Queens Park Rangers
+Stoke
+False
+20/04/2013 00:00:00
+15:00
+Stadium of Light
+Sunderland
+Everton
+False
+20/04/2013 00:00:00
+15:00
+Liberty Stadium
+Swansea
+Southampton
+False
+20/04/2013 00:00:00
+15:00
+The Hawthorns
+West Bromich
+Newcastle
+False
+20/04/2013 00:00:00
+15:00
+The Boleyn Ground
+West Ham
+Newcastle
+False
+21/04/2013 00:00:00
+13:30
+White Hart Lane
+Tottenham
+Manchester City
+False
+22/04/2013 00:00:00
+20:00
+Old Trafford
+Manchester United
+Aston Villa
+False
+27/04/2013 00:00:00
+12:45
+City of Manchester Stadium
+Manchester City
+West Ham
+False
+27/04/2013 00:00:00
+15:00
+Villa Park
+Aston Villa
+Sunderland
+False
+27/04/2013 00:00:00
+15:00
+Stamford Bridge
+Chelsea
+Swansea
+False
+27/04/2013 00:00:00
+15:00
+Goodison Park
+Everton
+Fulham
+False
+27/04/2013 00:00:00
+15:00
+St. Marys Stadium
+Southampton
+West Bromich
+False
+27/04/2013 00:00:00
+15:00
+Brittania Stadium
+Stoke
+Norwich
+False
+27/04/2013 00:00:00
+15:00
+DW Stadium
+Wigan Athletic
+Tottenham
+False
+27/04/2013 00:00:00
+17:30
+St. James' Park
+Newcastle
+Liverpool
+False
+28/04/2013 00:00:00
+13:30
+Madejski Stadium
+Reading
+Queens Park Rangers
+False
+28/04/2013 00:00:00
+16:00
+Emirates Stadium
+Arsenal
+Manchester United
+False
+04/05/2013 00:00:00
+15:00
+Craven Cottage
+Fulham
+Reading
+False
+04/05/2013 00:00:00
+15:00
+Anfield
+Liverpool
+Everton
+False
+04/05/2013 00:00:00
+15:00
+Old Trafford
+Manchester United
+Chelsea
+False
+04/05/2013 00:00:00
+15:00
+Carrow Road
+Norwich
+Aston Villa
+False
+04/05/2013 00:00:00
+15:00
+Loftus Road Stadium
+Queens Park Rangers
+Arsenal
+False
+04/05/2013 00:00:00
+15:00
+Stadium of Light
+Sunderland
+Stoke
+False
+04/05/2013 00:00:00
+15:00
+Liberty Stadium
+Swansea
+Manchester City
+False
+04/05/2013 00:00:00
+15:00
+White Hart Lane
+Tottenham
+Southampton
+False
+04/05/2013 00:00:00
+15:00
+The Hawthorns
+West Bromich
+Wigan Athletic
+False
+04/05/2013 00:00:00
+15:00
+The Boleyn Ground
+West Ham
+Newcastle
+False
+07/05/2013 00:00:00
+19:45
+DW Stadium
+Wigan Athletic
+Swansea
+False
+12/05/2013 00:00:00
+15:00
+Emirates Stadium
+Arsenal
+Wigan Athletic
+False
+12/05/2013 00:00:00
+15:00
+Villa Park
+Aston Villa
+Chelsea
+False
+12/05/2013 00:00:00
+15:00
+Goodison Park
+Everton
+West Ham
+False
+12/05/2013 00:00:00
+15:00
+Craven Cottage
+Fulham
+Liverpool
+False
+12/05/2013 00:00:00
+15:00
+Old Trafford
+Manchester United
+Swansea
+False
+12/05/2013 00:00:00
+15:00
+Carrow Road
+Norwich
+West Bromich
+False
+12/05/2013 00:00:00
+15:00
+Loftus Road Stadium
+Queens Park Rangers
+Newcastle
+False
+12/05/2013 00:00:00
+15:00
+Madejski Stadium
+Reading
+Manchester City
+False
+12/05/2013 00:00:00
+15:00
+Brittania Stadium
+Stoke
+Tottenham
+False
+12/05/2013 00:00:00
+15:00
+Stadium of Light
+Sunderland
+Southampton
+False
+19/05/2013 00:00:00
+16:00
+Stamford Bridge
+Chelsea
+Everton
+False
+19/05/2013 00:00:00
+16:00
+Anfield
+Liverpool
+Queens Park Rangers
+False
+19/05/2013 00:00:00
+16:00
+City of Manchester Stadium
+Manchester City
+Norwich
+False
+19/05/2013 00:00:00
+15:00
+St. James' Park
+Newcastle
+Arsenal
+False
+19/05/2013 00:00:00
+15:00
+St. Marys Stadium
+Southampton
+Stoke
+False
+19/05/2013 00:00:00
+15:00
+Liberty Stadium
+Swansea
+Fulham
+False
+19/05/2013 00:00:00
+15:00
+White Hart Lane
+Tottenham
+Sunderland
+False
+19/05/2013 00:00:00
+15:00
+The Hawthorns
+West Bromich
+Manchester United
+False
+19/05/2013 00:00:00
+15:00
+The Boleyn Ground
+West Ham
+Reading
+False
+League One
+npower
+£1,000
+93
+16/03/2013 00:00:00
+15:00
+Griffin Park
+Brentford
+Preston
+False
+16/03/2013 00:00:00
+15:00
+Gigg Lane Stadium
+Bury
+Colchester
+False
+16/03/2013 00:00:00
+15:00
+Ricoh Arena
+Coventry
+Hartlepool
+False
+16/03/2013 00:00:00
+15:00
+Alexandra Stadium
+Crewe
+Shrewsbury
+False
+16/03/2013 00:00:00
+15:00
+Keepmoat Stadium
+Doncaster
+Portsmouth
+False
+16/03/2013 00:00:00
+15:00
+Matchroom Stadium
+Leyton Orient
+Carlisle
+False
+16/03/2013 00:00:00
+15:00
+Stadium mk
+MK Dons
+Tranmere
+False
+16/03/2013 00:00:00
+15:00
+Meadow Lane
+Notts County
+Scunthorpe
+False
+16/03/2013 00:00:00
+15:00
+Boundary Park
+Oldham
+Bournemouth
+False
+16/03/2013 00:00:00
+15:00
+Broadhall Way
+Stevenage
+Sheffield United
+False
+16/03/2013 00:00:00
+15:00
+Bescot Stadium
+Walsall
+Crawley
+False
+19/03/2013 00:00:00
+15:00
+Gigg Lane Stadium
+Bury
+Stevenage
+False
+19/03/2013 00:00:00
+15:00
+Alexandra Stadium
+Crewe
+MK Dons
+False
+19/03/2013 00:00:00
+15:00
+Boundary Park
+Oldham
+Hartlepool
+False
+19/03/2013 00:00:00
+15:00
+Huish Park
+Yeovil
+Swindon
+False
+23/03/2013 00:00:00
+12:45
+Bramall Lane
+Sheffield United
+Brentford
+False
+23/03/2013 00:00:00
+15:00
+Dean Court
+Bournemouth
+Bury
+False
+23/03/2013 00:00:00
+15:00
+Brunton Park
+Carlisle
+Yeovil
+False
+23/03/2013 00:00:00
+15:00
+Colchester Community Stadium
+Colchester
+MK Dons
+False
+23/03/2013 00:00:00
+15:00
+Broadfield Stadium
+Crawley
+Crewe
+False
+23/03/2013 00:00:00
+15:00
+Victoria Park
+Hartlepool
+Walsall
+False
+23/03/2013 00:00:00
+15:00
+Fratton Park
+Portsmouth
+Coventry
+False
+23/03/2013 00:00:00
+15:00
+Deepdale
+Preston
+Leyton Orient
+False
+23/03/2013 00:00:00
+15:00
+Glanford Park
+Scunthorpe
+Doncaster
+False
+23/03/2013 00:00:00
+15:00
+New Meadow
+Shrewsbury
+Oldham
+False
+23/03/2013 00:00:00
+15:00
+The County Ground
+Swindon
+Notts County
+False
+24/03/2013 00:00:00
+16:00
+Prenton Park
+Tranmere
+Stevenage
+False
+29/03/2013 00:00:00
+15:00
+Griffin Park
+Brentford
+Notts County
+False
+29/03/2013 00:00:00
+15:00
+Gigg Lane Stadium
+Bury
+Crewe
+False
+29/03/2013 00:00:00
+15:00
+Brunton Park
+Carlisle
+Shrewsbury
+False
+29/03/2013 00:00:00
+15:00
+Colchester Community Stadium
+Colchester
+Bournemouth
+False
+29/03/2013 00:00:00
+15:00
+Broadfield Stadium
+Crawley
+Stevenage
+False
+29/03/2013 00:00:00
+15:00
+Victoria Park
+Hartlepool
+MK Dons
+False
+29/03/2013 00:00:00
+15:00
+Glanford Park
+Scunthorpe
+Leyton Orient
+False
+29/03/2013 00:00:00
+15:00
+The County Ground
+Swindon
+Oldham
+False
+29/03/2013 00:00:00
+15:00
+Prenton Park
+Tranmere
+Sheffield United
+False
+29/03/2013 00:00:00
+15:00
+Huish Park
+Yeovil
+Walsall
+False
+29/03/2013 00:00:00
+15:00
+Deepdale
+Preston
+Portsmouth
+False
+30/03/2013 00:00:00
+15:00
+Ricoh Arena
+Coventry
+Doncaster
+False
+01/04/2013 00:00:00
+12:15
+Keepmoat Stadium
+Doncaster
+Swindon
+False
+01/04/2013 00:00:00
+12:15
+Dean Court
+Bournemouth
+Scunthorpe
+False
+01/04/2013 00:00:00
+12:15
+Alexandra Stadium
+Crewe
+Preston
+False
+01/04/2013 00:00:00
+12:15
+Matchroom Stadium
+Leyton Orient
+Bury
+False
+01/04/2013 00:00:00
+12:15
+Stadium mk
+MK Dons
+Brentford
+False
+01/04/2013 00:00:00
+12:15
+Meadow Lane
+Notts County
+Yeovil
+False
+01/04/2013 00:00:00
+12:15
+Boundary Park
+Oldham
+Colchester
+False
+01/04/2013 00:00:00
+12:15
+Fratton Park
+Portsmouth
+Tranmere
+False
+01/04/2013 00:00:00
+12:15
+Bramall Lane
+Sheffield United
+Carlisle
+False
+01/04/2013 00:00:00
+12:15
+New Meadow
+Shrewsbury
+Crawley
+False
+01/04/2013 00:00:00
+12:15
+Broadhall Way
+Stevenage
+Hartlepool
+False
+01/04/2013 00:00:00
+12:15
+Bescot Stadium
+Walsall
+Coventry
+False
+06/04/2013 00:00:00
+15:00
+Dean Court
+Bournemouth
+Notts County
+False
+06/04/2013 00:00:00
+15:00
+Colchester Community Stadium
+Colchester
+Leyton Orient
+False
+06/04/2013 00:00:00
+15:00
+Ricoh Arena
+Coventry
+Brentford
+False
+06/04/2013 00:00:00
+15:00
+Keepmoat Stadium
+Doncaster
+Tranmere
+False
+06/04/2013 00:00:00
+15:00
+Victoria Park
+Hartlepool
+Bury
+False
+06/04/2013 00:00:00
+15:00
+Stadium mk
+MK Dons
+Crawley
+False
+06/04/2013 00:00:00
+15:00
+Boundary Park
+Oldham
+Carlisle
+False
+06/04/2013 00:00:00
+15:00
+Fratton Park
+Portsmouth
+Stevenage
+False
+06/04/2013 00:00:00
+15:00
+Deepdale
+Preston
+Scunthorpe
+False
+06/04/2013 00:00:00
+15:00
+Bescot Stadium
+Walsall
+Sheffield United
+False
+06/04/2013 00:00:00
+15:00
+Huish Park
+Yeovil
+Shrewsbury
+False
+09/04/2013 00:00:00
+19:45
+Keepmoat Stadium
+Doncaster
+Carlisle
+False
+09/04/2013 00:00:00
+19:45
+Stadium mk
+MK Dons
+Swindon
+False
+09/04/2013 00:00:00
+19:45
+Deepdale
+Preston
+Oldham
+False
+10/04/2013 00:00:00
+19:45
+Alexandra Stadium
+Crewe
+Brentford
+False
+06/04/2013 00:00:00
+15:00
+Griffin Park
+Brentford
+Portsmouth
+False
+06/04/2013 00:00:00
+15:00
+Gigg Lane Stadium
+Bury
+Oldham
+False
+06/04/2013 00:00:00
+15:00
+Brunton Park
+Carlisle
+Preston
+False
+06/04/2013 00:00:00
+15:00
+Broadfield Stadium
+Crawley
+Coventry
+False
+06/04/2013 00:00:00
+15:00
+Alexandra Stadium
+Crewe
+Doncaster
+False
+06/04/2013 00:00:00
+15:00
+Matchroom Stadium
+Leyton Orient
+MK Dons
+False
+06/04/2013 00:00:00
+15:00
+Meadow Lane
+Notts County
+Colchester
+False
+06/04/2013 00:00:00
+15:00
+Glanford Park
+Scunthorpe
+Walsall
+False
+06/04/2013 00:00:00
+15:00
+Bramall Lane
+Sheffield United
+Swindon
+False
+06/04/2013 00:00:00
+15:00
+New Meadow
+Shrewsbury
+Bournemouth
+False
+06/04/2013 00:00:00
+15:00
+Broadhall Way
+Stevenage
+Yeovil
+False
+06/04/2013 00:00:00
+15:00
+Prenton Park
+Tranmere
+Hartlepool
+False
+16/04/2013 00:00:00
+19:45
+Boundary Park
+Oldham
+Yeovil
+False
+16/04/2013 00:00:00
+19:45
+Bramall Lane
+Sheffield United
+Crawley
+False
+16/04/2013 00:00:00
+19:45
+The County Ground
+Swindon
+Crewe
+False
+20/04/2013 00:00:00
+15:00
+Dean Court
+Bournemouth
+Carlisle
+False
+06/04/2013 00:00:00
+15:00
+Colchester Community Stadium
+Colchester
+Shrewsbury
+False
+06/04/2013 00:00:00
+15:00
+Ricoh Arena
+Coventry
+Leyton Orient
+False
+20/04/2013 00:00:00
+15:00
+Keepmoat Stadium
+Doncaster
+Notts County
+False
+06/04/2013 00:00:00
+15:00
+Victoria Park
+Hartlepool
+Brentford
+False
+06/04/2013 00:00:00
+15:00
+Stadium mk
+MK Dons
+Scunthorpe
+False
+20/04/2013 00:00:00
+15:00
+Boundary Park
+Oldham
+Crawley
+False
+06/04/2013 00:00:00
+15:00
+Fratton Park
+Portsmouth
+Sheffield United
+False
+06/04/2013 00:00:00
+15:00
+Deepdale
+Preston
+Tranmere
+False
+20/04/2013 00:00:00
+15:00
+The County Ground
+Swindon
+Stevenage
+False
+06/04/2013 00:00:00
+15:00
+Bescot Stadium
+Walsall
+Bury
+False
+06/04/2013 00:00:00
+15:00
+Huish Park
+Yeovil
+Crewe
+False
